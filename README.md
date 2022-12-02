@@ -1,2 +1,2 @@
-# C-basic
+# C++-basic
 C++ code/template
